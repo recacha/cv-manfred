@@ -1,0 +1,442 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "David",
+      "surnames": "Gutiérrez",
+      "title": "Developer at Manfred",
+      "description": "Apasionado por el mundo de la creatividad, la programación, el diseño y la tecnología. Unir estas disciplinas genera siempre resultados diferenciadores y únicos. El desarrollo de aplicaciones móviles y webs me permite encontrar el equilibrio entre mis pasiones. ¡Fiel defensor de que la programación es realmente creativa!",
+      "avatar": {
+        "alt": "albert-dera-ILip77SbmOE-unsplash.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/11/34a043db-4412-4f8f-adbe-ff008994ff9d_albert-dera-ilip77sb.jpeg"
+      },
+      "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/david-guti%C3%A9rrez-829675240/"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Soy batería en \"Los Inspectores\"",
+        "fact": "Junto a varios amigos, hemos creado el grupo de música de \"Los Inspectores\", centrado en versiones de grandes clásicos de pop y rock de los 80 y 90. Es un hobby que me encanta y gracias al cual he podido participar en varias conferencias técnicas. "
+      },
+      {
+        "topic": "He participado en una Titan Desert",
+        "fact": "La Titan Desert es una competición de ciclismo de montaña por etapas, realizada durante 6 días en el desierto de Marruecos. Me estuve preparando para ello durante casi año y medio y pude completarla (casi) sin lesiones ni problemas mecánicos. Es una experiencia que me voy a llevar para toda la vida."
+      }
+    ],
+    "recommendations": [
+      {
+        "title": "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Jez",
+            "surnames": "Humble y David Farley",
+            "title": "Author"
+          }
+        ],
+        "summary": "Explica cómo implementar una entrega continua de software mediante la automatización de los procesos de compilación, prueba y despliegue. También cubre temas como el control de versiones, la gestión de configuraciones y las pruebas automatizadas."
+      },
+      {
+        "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Erich",
+            "surnames": "Gamma, Richard Helm, Ralph Johnson y John Vlissides",
+            "title": "Author"
+          }
+        ],
+        "summary": "Describe patrones de diseño comunes utilizados en el desarrollo de software orientado a objetos. Cada patrón se presenta con una descripción, ejemplos de uso y un diagrama UML."
+      },
+      {
+        "title": "Lenny's Podcast",
+        "type": "other",
+        "authors": [
+          {
+            "name": "Lenny",
+            "surnames": "Rachitsky",
+            "title": "Author"
+          }
+        ],
+        "summary": "\"Lenny's Podcast\" es un podcast muy útil para mí, ya que trabajo en la gestión de productos digitales. Cada episodio ofrece una gran cantidad de información valiosa sobre temas como la estrategia de productos, la investigación de mercado y la entrega de productos. El presentador, Lenny Rachitsky, es un experto en la industria con experiencia en empresas como Airbnb y como inversor de capital de riesgo. Me encanta el enfoque práctico del podcast y los consejos y herramientas útiles que proporciona para mejorar mi trabajo en la gestión de productos digitales."
+      },
+      {
+        "title": "Open",
+        "type": "reading",
+        "authors": [
+          {
+            "name": "Andre",
+            "surnames": "Agassi",
+            "title": "Author"
+          }
+        ],
+        "summary": "\"Open\" es la autobiografía del tenista Andre Agassi. En ella, Agassi habla de su carrera tenística y de su vida personal, incluyendo su infancia en Las Vegas, su relación con su familia y su matrimonio con la también tenista Steffi Graf. También discute los altibajos de su carrera, desde su temprano éxito hasta sus luchas con lesiones y su eventual regreso al tenis de élite. El libro es conocido por su honestidad y franqueza, y ha sido muy bien recibido tanto por los fans del tenis como por aquellos interesados en las memorias deportivas."
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred"
+        },
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-05-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicaciones web en movistar.es utilizando ReactJS+Redux+ES6, bitBucket como control de versiones, Bit como biblioteca de componentes y Jira para la gestión de proyectos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Microsoft"
+        },
+        "roles": [
+          {
+            "name": "Technology Solutions Professional - Azure AppDev & Infrastructure",
+            "startDate": "2015-09-01",
+            "finishDate": "2017-05-01",
+            "challenges": [
+              {
+                "description": "Trabajo en un equipo Agile como desarrollador de backend de Azure Cloud .Net Core.\n\nTecnologías: Azure Cloud, C#, .Net Core, AKS Kubernetes, Microservicios con Docker y Rancher como orquestador, CI-CD con Azure Pipelines.\n\nTrabajo para nuestro cliente Dorlet Waste para la gestión de contenedores de residuos como elementos de IoT a través de la nube de Azure.\n\nEstoy desarrollando una arquitectura de microservicios para el monitoreo y gestión de big data con el objetivo final de concienciar a los ciudadanos sobre el tratamiento de los residuos."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Altran"
+        },
+        "roles": [
+          {
+            "name": "Junior Developer",
+            "startDate": "2012-09-01",
+            "finishDate": "2015-09-01",
+            "challenges": [
+              {
+                "description": "Experiencia en bases de datos e ingeniería de software Microsoft .NET FRAMEWORK 3.5, SQLSERVER.\n\nTrabajando para Siemens Gamesa en un equipo SCRUM SAFe 5.0. Creando una aplicación que almacena y procesa información de turbinas eólicas."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Desarrollo de una plataforma de comercio electrónico",
+          "description": "Lideré el desarrollo de una plataforma de comercio electrónico basada en .NET para una empresa minorista, permitiendo a los clientes navegar por los productos, realizar compras y hacer seguimiento de sus pedidos a través de una interfaz intuitiva y fácil de usar. Liberamos todo el código para que la comunidad pudiera usarlo.",
+          "image": {
+            "alt": "email-marketing copy.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/11/667828a6-2f62-4a76-8159-33794a0360c5_email-marketing-copy.jpg"
+          }
+        },
+        "type": "openSource",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2019-01-01",
+            "finishDate": "2019-06-01",
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
+          "name": "Desarrollo de un sistema de Gestión de Relaciones con el Cliente (CRM)",
+          "description": "Diseñé y desarrollé un sistema CRM basado en .NET para una empresa minorista de unos amigos con el fin de gestionar los datos, interacciones y transacciones de los clientes.",
+          "image": {
+            "alt": "crm-overview.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/11/602fac3a-a5d7-4418-a0ef-de186711b052_crm-overview.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2017-06-01",
+            "finishDate": "2017-12-01",
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "Construyendo microservicios escalables con .NET Core, Kubernetes y Docker",
+          "description": "La arquitectura de microservicios es cada vez más popular como una forma de construir aplicaciones escalables, flexibles y resilientes. En esta charla, compartiré mi experiencia en la construcción de microservicios utilizando .NET Core, Kubernetes y Docker. Cubriré los principios clave de la arquitectura de microservicios y cómo se aplican al desarrollo de .NET. También compartiré las mejores prácticas para diseñar e implementar microservicios en Kubernetes, incluyendo técnicas para escalar, monitorear y administrar servicios. Finalmente, demostraré cómo usar Docker para empaquetar e implementar microservicios .NET Core de manera escalable y eficiente. Los asistentes dejarán esta charla con una comprensión sólida de cómo construir y desplegar microservicios con .NET Core, Kubernetes y Docker.",
+          "image": {
+            "alt": "1624606356687.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/11/39b71bf9-aeee-4cc5-910d-1da54a2efff9_1624606356687.jpeg"
+          }
+        },
+        "type": "talk",
+        "publishingDate": "2022-09-01",
+        "tags": [
+          ""
+        ]
+      },
+      {
+        "details": {
+          "name": "Ganador Startup Weekend 2021",
+          "description": "En el Startup Weekend Valencia, mi equipo y yo creamos EcoCycle, una empresa dedicada a fomentar el reciclaje a través de una aplicación móvil. La app tiene un enfoque de gamificación, ofreciendo recompensas a los usuarios por su compromiso con el reciclaje. Además, ofrece información sobre puntos de reciclaje cercanos y consejos para una vida más sostenible.\n\nEl objetivo de EcoCycle es aumentar la conciencia ambiental y reducir la cantidad de residuos en los vertederos. Para lograr esto, trabajamos en estrecha colaboración con las autoridades locales y los proveedores de servicios de reciclaje para garantizar una solución sostenible y viable.\n\nDurante el evento, desarrollamos un plan de negocios detallado y un prototipo funcional de la aplicación. También realizamos una investigación de mercado y validamos nuestra idea con una encuesta a consumidores potenciales. Al final del fin de semana, EcoCycle fue elegida como la empresa ganadora del evento.",
+          "image": {
+            "alt": "techstars_logo_before_after.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/11/795fbda3-0c06-498d-86d5-bcc53872e44e_techstars_logo_befor.png"
+          }
+        },
+        "type": "achievement",
+        "publishingDate": "2021-10-01",
+        "relatedCompetences": [
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "React",
+            "type": "technology"
+          }
+        ],
+        "tags": [
+          ""
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "Spanish",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: .NET Developer Associate",
+        "startDate": "2016-12-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Esta certificación valida las habilidades y conocimientos de un desarrollador para diseñar, construir y mantener aplicaciones utilizando .NET Framework y .NET Core. El desarrollador debe ser capaz de crear aplicaciones basadas en web, servicios y aplicaciones de escritorio utilizando Visual Studio y otros frameworks de desarrollo.",
+          "image": {
+            "alt": "Microsoft_logo.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/11/6fa9fcc8-79cf-4303-b177-1c480a8d7e00_microsoft_logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": ".Net Core",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Microsoft Certified: Azure Developer Associate",
+        "startDate": "2016-03-01",
+        "institution": {
+          "name": "Microsoft",
+          "description": "Esta certificación valida las habilidades y conocimientos de un desarrollador para diseñar, construir y mantener aplicaciones en la nube de Microsoft Azure, utilizando tecnologías como .NET, Azure SDK y Visual Studio.",
+          "image": {
+            "alt": "Microsoft_logo.svg.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/11/08812001-5f26-49df-953b-36df24a1222c_microsoft_logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": ".NET",
+            "type": "technology"
+          },
+          {
+            "name": "Azure",
+            "type": "technology"
+          },
+          {
+            "name": "Visual Studio",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Grado en Ingeniería Informática",
+        "startDate": "2008-09-01",
+        "finishDate": "2012-07-01",
+        "institution": {
+          "name": "Universidad Nebrija",
+          "description": "Actividades y grupos: Equipo de baloncesto, grupo de debate y ESN.",
+          "image": {
+            "alt": "download.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/11/0e8206b6-73ba-430c-aa4e-6c2715d8998e_download.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PostgreSQL",
+            "type": "technology"
+          }
+        ]
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/david-guti%C3%A9rrez-829675240/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "React",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "openToOffers"
+  },
+  "asgardPreferences": {
+    "mainStackTechs": [
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": ".NET",
+        "type": "technology"
+      },
+      {
+        "name": "Kubernetes",
+        "type": "technology"
+      }
+    ]
+  }
+}
