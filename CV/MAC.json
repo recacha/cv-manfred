@@ -252,7 +252,13 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "NodeJS",
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
           "type": "technology"
         }
       },
@@ -264,13 +270,7 @@
       },
       {
         "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": ".NET",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
@@ -288,19 +288,19 @@
       },
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
           "type": "technology"
         }
       }
@@ -432,7 +432,7 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": ".NET",
+        "name": "NodeJS",
         "type": "technology"
       },
       {
@@ -441,6 +441,10 @@
       },
       {
         "name": "Kubernetes",
+        "type": "technology"
+      },
+      {
+        "name": ".NET",
         "type": "technology"
       }
     ]
