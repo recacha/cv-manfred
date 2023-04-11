@@ -252,13 +252,19 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Datadog",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": ".NET",
           "type": "technology"
         }
       },
@@ -276,31 +282,19 @@
       },
       {
         "skill": {
-          "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": ".NET",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Kubernetes",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
           "type": "technology"
         }
       }
@@ -432,11 +426,11 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "Azure",
+        "name": ".NET",
         "type": "technology"
       },
       {
-        "name": ".NET",
+        "name": "Azure",
         "type": "technology"
       },
       {
