@@ -1,12 +1,14 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
-      "title": "",
+      "name": "David",
+      "surnames": "Gutiérrez",
+      "title": "Developer at Manfred",
       "description": "Apasionado por el mundo de la creatividad, la programación, el diseño y la tecnología. Unir estas disciplinas genera siempre resultados diferenciadores y únicos. El desarrollo de aplicaciones móviles y webs me permite encontrar el equilibrio entre mis pasiones. ¡Fiel defensor de que la programación es realmente creativa!",
       "avatar": {
         "alt": "albert-dera-ILip77SbmOE-unsplash.jpeg",
@@ -15,10 +17,15 @@
       "location": {
         "country": "España",
         "region": "Comunidad de Madrid",
-        "municipality": "Madrid",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Madrid"
       }
     },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/david-guti%C3%A9rrez-829675240/"
+      }
+    ],
     "interestingFacts": [
       {
         "topic": "Soy batería en \"Los Inspectores\"",
@@ -194,10 +201,7 @@
           }
         },
         "type": "talk",
-        "publishingDate": "2022-09-01",
-        "tags": [
-          ""
-        ]
+        "publishingDate": "2022-09-01"
       },
       {
         "details": {
@@ -223,9 +227,6 @@
             "name": "React",
             "type": "technology"
           }
-        ],
-        "tags": [
-          ""
         ]
       }
     ]
@@ -234,7 +235,19 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "PostgreSQL",
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kubernetes",
           "type": "technology"
         }
       },
@@ -252,12 +265,6 @@
       },
       {
         "skill": {
-          "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JavaScript",
           "type": "technology"
         }
@@ -270,13 +277,7 @@
       },
       {
         "skill": {
-          "name": "Kubernetes",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JAVA",
+          "name": "PostgreSQL",
           "type": "technology"
         }
       }
@@ -366,6 +367,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/david-guti%C3%A9rrez-829675240/"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
@@ -390,27 +399,7 @@
           "name": "WordPress",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Frontend Developer"
       ]
-    },
-    "status": "openToOffers"
-  },
-  "asgardPreferences": {
-    "mainStackTechs": [
-      {
-        "name": ".NET",
-        "type": "technology"
-      },
-      {
-        "name": "Azure",
-        "type": "technology"
-      },
-      {
-        "name": "Kubernetes",
-        "type": "technology"
-      }
-    ]
+    }
   }
 }
