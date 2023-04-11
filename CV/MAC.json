@@ -252,6 +252,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Datadog",
+          "type": "technology"
+        }
+      },
+{
+        "skill": {
           "name": "React",
           "type": "technology"
         }
